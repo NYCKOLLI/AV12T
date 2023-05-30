@@ -2,12 +2,12 @@ body{
     background-color: azure;
 }
 .rodape{
-    background-color: rgb(200, 247, 208);
+    background-color: rgb(200, 238, 247);
     text-align: center;
 }
 
 .rodape-imagem{
-    height: 120%;
+    height: 200%;
     padding: 120px 0;
 
 }
