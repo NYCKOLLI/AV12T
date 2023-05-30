@@ -1,8 +1,8 @@
 body{
-    background-color: azure;
+    background-color: rgb(255, 254, 184);
 }
 .rodape{
-    background-color: rgb(200, 238, 247);
+    background-color: rgb(255, 254, 184);
     text-align: center;
 }
 
@@ -15,7 +15,7 @@ body{
     width: 20%;
 }
 .cabecalho {
-    background-color: #01f5e9;
+    background-color: rgb(255, 247, 173), 254, 184;
     color: white;
     display: flex;
     justify-content: space-around;
